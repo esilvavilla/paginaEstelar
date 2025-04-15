@@ -3,6 +3,8 @@ layout: assignments
 title: Reviews para las charlas
 permalink: /assignments/
 ---
+El conjunto de artículos que se listan a continuación son los que se aceptarán para ser presentados por los estudiantes:
+
 1. [Theory of Star Formation](https://www.annualreviews.org/content/journals/10.1146/annurev.astro.45.051806.110602)
 2. [A Universal Stellar Initial Mass Function? A Critical Look at Variations](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-082708-101642)
 3. [Evidence for Initial Mass Function Variation in Massive Early-Type Galaxies](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-032620-020217)
