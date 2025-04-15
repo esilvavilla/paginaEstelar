@@ -1,6 +1,6 @@
 ---
 layout: assignments
-title: Clases
+title: Reviews para las charlas
 permalink: /assignments/
 ---
-Test Temporal
+

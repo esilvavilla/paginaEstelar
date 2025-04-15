@@ -1,6 +1,6 @@
 ---
 layout: lectures
-title: Clases
+title: Clases y Diapositivas
 permalink: /lectures/
 ---
-Diapositivas y notas de clase del curso.
+Diapositivas y notas del curso.
