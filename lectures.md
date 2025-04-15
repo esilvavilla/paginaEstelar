@@ -1,6 +1,6 @@
 ---
 layout: lectures
-title: Lectures
+title: Clases
 permalink: /lectures/
 ---
-You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
+Diapositivas y notas de clase del curso.

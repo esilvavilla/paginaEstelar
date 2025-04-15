@@ -1,11 +1,10 @@
 # Site settings
 course_name: Astrofísica Estelar
-course_name: AstroEstelar
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "2025-1"
+# course_description: "Página para el curso Astrofísica Estelar del pregrado de Astronomía de la Universidad de Antioquia, Colombia."
+course_semester: "Página para el curso Astrofísica Estelar del pregrado de Astronomía de la Universidad de Antioquia, Colombia."
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+baseurl: "/paginaEstelar" # the subpath of your site, e.g. /blog/
+url: "http://esilvavilla.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Universidad de Antioquia"
 schoolurl: "https://udea.edu.co"
@@ -13,11 +12,12 @@ schoolurl: "https://udea.edu.co"
 
 address: |
     Universidad de Antioquia
-    Medellín
+    Calle 67 No. 53-108 Oficina 6-105
+    050010, Medellín
     Colombia
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
-# google_analytics: UA-XXXXXXXX-X
+google_analytics: G-NCH03C3W1P
 
 ### Do not change the followings unless you know what you are doing ###
 
@@ -31,7 +31,7 @@ excerpt_separator: "<!--more-->"
 include: ['_images', '_css']
 exclude: ['develop']
 
-dateformat: "%m/%d/%Y"
+dateformat: "%d/%m/%Y"
 
 future: true
 collections:
