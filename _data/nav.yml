@@ -1,6 +1,6 @@
 items:
 - url: /
-  name: Home
+  name: Pág Pripal
   icon_class: fa fa-home fa-lg
 
 - url: /schedule/
