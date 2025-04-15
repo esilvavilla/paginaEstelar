@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/jekyll-course-website-template/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/jekyll-course-website-template/" rel="alternate" type="text/html" /><updated>2025-04-13T11:43:20+00:00</updated><id>http://localhost:4000/jekyll-course-website-template/feed.xml</id><title type="html">paginaEstelar</title></feed>
 =======
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/paginaEstelar/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/paginaEstelar/" rel="alternate" type="text/html" /><updated>2025-04-14T18:30:02+00:00</updated><id>http://localhost:4000/paginaEstelar/feed.xml</id><title type="html">paginaEstelar</title></feed>
 >>>>>>> 59f9014 (clases.pdf a Dropbox Public)
+=======
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/paginaEstelar/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/paginaEstelar/" rel="alternate" type="text/html" /><updated>2025-04-14T18:53:45+00:00</updated><id>http://localhost:4000/paginaEstelar/feed.xml</id><title type="html">paginaEstelar</title></feed>
+>>>>>>> 3cbf534 (correctos títulos)
