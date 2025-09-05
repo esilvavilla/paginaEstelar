@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2025-08-15T8:0:0+3:30
+date: 2026-01-23T8:0:0+3:30
 description: 'Cuarto parcial'
 hide_from_announcments: true
 ---

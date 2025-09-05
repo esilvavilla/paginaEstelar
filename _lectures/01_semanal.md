@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-04-14T8:00:00+4:30
+date: 2025-09-10T8:00:00+4:30
 title: Cronograma semanal
 tldr: "Cronograma semanal del curso."
 thumbnail: /static_files/presentations/cronog.jpg

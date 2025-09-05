@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2025-07-23T8:0:0+3:30
+date: 2025-12-17T8:0:0+3:30
 description: 'Tercer parcial'
 hide_from_announcments: true
 ---
