@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2025-10-08T8:0:0+3:30
+date: 2026-03-18T8:0:0+3:30
 description: 'Primer parcial'
 hide_from_announcments: true
 ---

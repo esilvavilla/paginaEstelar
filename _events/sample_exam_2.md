@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2025-11-12T8:0:0+3:30
+date: 2026-04-22T8:0:0+3:30
 description: 'Segundo parcial'
 hide_from_announcments: true
 ---
