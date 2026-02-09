@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-10T8:00:00+4:30
+date: 2026-02-18T8:00:00+4:30
 title: Notas y diapositivas de clase
 tldr: "Información importante para estudiar la primera semana."
 thumbnail: /static_files/presentations/lec.jpg
