@@ -9,7 +9,7 @@ El conjunto de artículos que se listan a continuación son los que se aceptará
 2. [A Universal Stellar Initial Mass Function? A Critical Look at Variations](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-082708-101642)
 3. [Evidence for Initial Mass Function Variation in Massive Early-Type Galaxies](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-032620-020217) [Juan Manuel Agudelo 8:30am]
 4. [Atomic Hydrogen in the Milky Way: A Stepping Stone in the Evolution of Galaxies](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-052920-104851)
-5. [The Hi Distribution of the Milky Way](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-082708-101823)
+5. [The Hi Distribution of the Milky Way](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-082708-101823) [Ruby Contreras 8am]
 6. [Nucleosynthesis in Stars and the Chemical Enrichment of Galaxies](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-082812-140956)
 7. [Accretion onto Pre-Main-Sequence Stars](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-081915-023347) [Andersson Rodriguez 9:30am]
 8. [Protostellar Outflows](https://www.annualreviews.org/content/journals/10.1146/annurev-astro-081915-023341) [Mateo Preciado 9:00am]
