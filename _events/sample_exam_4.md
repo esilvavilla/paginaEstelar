@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2026-06-17T8:0:0+3:30
+date: 2026-11-20T8:0:0+3:30
 description: 'Cuarto parcial'
 hide_from_announcments: true
 ---
